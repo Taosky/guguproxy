@@ -9,7 +9,7 @@ Fork from https://github.com/bohanyang/onemirror
 `docker run -p 80:80 taoskycn/guguproxy:v0.1`
 
 
-##Tips##
+## Tips
 使用前置反代，需要转发host，否则无法正确重定向导致首页、设置等页面无法打开。
 
 **Caddy1**
