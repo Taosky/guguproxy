@@ -30,7 +30,6 @@ Fork from https://github.com/bohanyang/onemirror
     header_up X-Forwarded-For {http.request.remote.host}
     header_up X-Forwarded-Port {http.request.port}
     header_up X-Forwarded-Proto {http.request.scheme}
-    header_down Set-Cookie world-of-dungeons.org wannaexpresso.com
  }
 ```
 
