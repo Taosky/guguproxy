@@ -1,2 +1,3 @@
+#!/bin/bash
 bash upstream.sh
-nohup nginx -g 'daemon off;' &
+nginx -g 'daemon off;'
