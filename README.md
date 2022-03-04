@@ -6,7 +6,7 @@ Fork from https://github.com/bohanyang/onemirror
 
 ## Usage
 
-`docker run -p 80:80 taoskycn/guguproxy:v0.1`
+`docker run -p 80:80 taoskycn/guguproxy:latest`
 
 
 ## Tips
