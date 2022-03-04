@@ -36,5 +36,8 @@ Fork from https://github.com/bohanyang/onemirror
 
 ## Update Logs
 
+#### 2022-03-04
+- 修复一些bug
+
 #### 2022-01-26
 - 自动添加upstream到nginx配置
